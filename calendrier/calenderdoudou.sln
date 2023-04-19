@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calenderdoudou", "calenderdoudou\calenderdoudou.csproj", "{A6F0F027-1592-4CA8-801E-688A90D0C665}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{55ACA941-11C4-4697-9D8A-CE580AA7EBB6}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6F0F027-1592-4CA8-801E-688A90D0C665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F0F027-1592-4CA8-801E-688A90D0C665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F0F027-1592-4CA8-801E-688A90D0C665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F0F027-1592-4CA8-801E-688A90D0C665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D5D8C7E-2709-4BFD-BE7C-348A7B66874B}
+	EndGlobalSection
+EndGlobal
